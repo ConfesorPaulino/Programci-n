@@ -1,0 +1,12 @@
+"README.md"
+Un archivo "README.md" es un archivo de texto que se utiliza comúnmente en proyectos de software para proporcionar información importante sobre el proyecto y su uso. La extensión ".md" significa "Markdown", que es un lenguaje de marcado ligero utilizado para dar formato al texto y agregar elementos de estilo.
+
+El archivo README.md se coloca típicamente en el directorio principal del proyecto y contiene información útil para los usuarios y desarrolladores, como:
+
+Una descripción del proyecto y sus objetivos
+Instrucciones para instalar y ejecutar el proyecto
+Información sobre las dependencias y requisitos del sistema
+Ejemplos de código de muestra y casos de uso
+Información de contacto para el autor o el equipo de desarrollo
+Enlaces a la documentación adicional y recursos útiles
+El archivo README.md es útil porque puede ayudar a los usuarios a comprender rápidamente lo que hace un proyecto, cómo se usa y cómo se puede contribuir al desarrollo. También puede ser una herramienta valiosa para los desarrolladores, ya que puede servir como una guía de referencia rápida para el código y los recursos asociados con el proyecto.
